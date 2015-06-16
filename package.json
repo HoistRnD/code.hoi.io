@@ -1,0 +1,8 @@
+{
+  "name": "code.hoi.io",
+  "description": "Code host for Hoist",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "3.x"
+  }
+}
